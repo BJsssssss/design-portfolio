@@ -7,17 +7,15 @@
 }
 
 .author-name{
-   font-family: Arial, "Bookman Old Style", sans-serif;
+   font-family: Helvetica, sans-serif, Arial;
    font-size: 50px;
    font-weight: 100;
-   color: #334567;
 }
 
 .job{
-   font-family: sans-serif, Helvetica, Arial;
+   font-family: Helvetica, sans-serif, Arial;
    font-size: 25px;
    font-weight: 600;
-   color: #334567;
 }
 
 .align-center{
@@ -49,12 +47,13 @@
 
 .text-lower{
    height: auto;
+   font-size: 25px;
    color: #2d3c49;
-   font-family: "Antique Olive", "Century Gothic", sans-serif;
+   font-family: Arial, sans-serif;
 }
 
 .html-link{
    font-family: Arial, sans-serif;
-   font-size: 15px;
+   font-size: 10px;
    color: #334567;
 }
