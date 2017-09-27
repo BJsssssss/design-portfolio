@@ -1,0 +1,57 @@
+html{
+   max-width:100%;
+   -ms-text-size-adjust: 100%;
+   -webkit-text-size-adjust: 100%;
+   box-sizing: border-box;
+   font-size: 12px;
+   line-height: 1.5;
+}
+
+.udacity-logo{
+   width: 75px; 
+   height: 75px; 
+   width: 15%; 
+   margin-left:0;
+}
+
+.name{
+   font-family: Helvetica, Arial, sans-serif;
+   font-size: 75px;
+   font-weight: lighter;
+   color: #334567;
+}
+
+.job{
+   font-family: Helvetica, Arial, sans-serif;
+   font-size: 25px;
+   color: #334567;
+}
+
+.align-center{
+   text-align: center;
+}
+
+.align-left{
+   text-align: left;
+}
+
+.align-right{
+   text-align: right;
+}
+
+
+.featured-work{
+   height: auto;
+   color: #334567;
+   font-family: Helvetica, Arial, sans-serif;
+}
+
+.image-lower{
+   width: 200px; 
+   height: 200px; 
+   width: 100%; 
+}
+
+.center-text{
+  text-align:center;
+}
