@@ -55,3 +55,9 @@ html{
 .center-text{
   text-align:center;
 }
+
+.html-link{
+   font-family: Helvetica, Arial, sans-serif;
+   font-size: 25px;
+   color: #334567;
+}
