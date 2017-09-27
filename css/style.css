@@ -2,11 +2,12 @@
    width: 75px; 
    height: 75px; 
    width: 15%; 
+   color: #02b3e4;
    margin-left: 0;
 }
 
 .author-name{
-   font-family: sans-serif;
+   font-family: Arial, "Bookman Old Style", sans-serif;
    font-size: 50px;
    font-weight: 100;
    color: #334567;
@@ -34,7 +35,7 @@
 
 .featured-work{
    height: auto;
-   color: #334567;
+   color: #7d97ad;
    font-family: Arial, sans-serif;
    font-weight: 100;
    margin-top: 30px;
@@ -46,8 +47,14 @@
    width: 100%; 
 }
 
+.text-lower{
+   height: auto;
+   color: #2d3c49;
+   font-family: "Antique Olive", "Century Gothic", sans-serif;
+}
+
 .html-link{
-   font-family: Helvetica, Arial, sans-serif;
+   font-family: Arial, sans-serif;
    font-size: 15px;
    color: #334567;
 }
