@@ -21,6 +21,11 @@
    margin-top: 0;
 }
 
+.ruled-line{
+   border-width:10px; 
+   color:#7d97ad;
+}
+
 .align-center{
    text-align: center;
 }
