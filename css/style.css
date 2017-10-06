@@ -1,5 +1,5 @@
 .udacity-logo{
-   height: 40%;
+   height: auto;
    width: 40%; 
    color: #02b3e4;
    margin: 4em 0 0 0;
@@ -33,7 +33,6 @@
    text-align: right;
 }
 
-
 .featured-work{
    height: auto;
    color: #7d97ad;
@@ -41,14 +40,16 @@
    margin: 1em 0 1em 0;
 }
 
-.html-image{  
+.main-container-image{  
    height: auto;
-   width:100%;
+   width: 100%;
+   max-width:100%;
 }
 
 .image-lower{  
-   height: auto;
+   height:12em;
    width:100%;
+   max-width: 100%;
 }
 
 .text-lower{
