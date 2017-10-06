@@ -1,5 +1,5 @@
 .udacity-logo{
-   height: 40%; 
+   height: 40%;
    width: 40%; 
    color: #02b3e4;
    margin: 4em 0 0 0;
@@ -15,9 +15,10 @@
    margin: 0;
 }
 
-.ruled-line{
-   border-width: 1em;
-   color: #7d97ad; 
+.hr{
+   border: solid black;
+   width:10px; 
+   margin: 0 0 1em 0;
 }
 
 .align-center{
@@ -40,8 +41,13 @@
    margin: 1em 0 1em 0;
 }
 
-.image-lower{ 
-   height: 50%; 
+.html-image{  
+   height: auto;
+   width:100%;
+}
+
+.image-lower{  
+   height: auto;
    width:100%;
 }
 
