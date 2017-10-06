@@ -63,3 +63,8 @@
    color: #7d97ad;
    margin: 0 0 4rem 0;
 }
+
+.footer-text{
+   font: 1em sans-serif;
+   color: solid black;   
+}
