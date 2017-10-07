@@ -50,7 +50,7 @@ img, embed, object, video{
 }
 
 .image-lower{  
-   height:12em;
+   height:auto;
    width:100%;
 }
 
