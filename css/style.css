@@ -1,3 +1,7 @@
+img, embed, object, video{
+	max-width:100%;
+}
+
 .udacity-logo{
    height: auto;
    width: 40%; 
@@ -17,7 +21,7 @@
 
 .hr{
    border: solid black;
-   width:10px; 
+   width:100%; 
    margin: 0 0 1em 0;
 }
 
@@ -43,13 +47,11 @@
 .main-container-image{  
    height: auto;
    width: 100%;
-   max-width:100%;
 }
 
 .image-lower{  
    height:12em;
    width:100%;
-   max-width: 100%;
 }
 
 .text-lower{
